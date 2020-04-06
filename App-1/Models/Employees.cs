@@ -14,8 +14,6 @@ namespace App_1.Models
         public String Department { get; set; }
 
         public String Phone { get; set; }
-        public String Address { get; set; }
-
 
 
     }
