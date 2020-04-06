@@ -5,6 +5,7 @@
     
     [Phone] NVARCHAR(50) NULL, 
     [City] NVARCHAR(50) NULL, 
+    [Address] NVARCHAR(50) NULL, 
     CONSTRAINT [PK_Employees] PRIMARY KEY CLUSTERED ([Id] ASC)
 );
 
