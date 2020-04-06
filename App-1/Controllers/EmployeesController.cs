@@ -19,6 +19,9 @@ namespace App_1.Controllers
             _context = context;
         }
 
+       
+
+
         // GET: Employees
         public async Task<IActionResult> Index()
         {
