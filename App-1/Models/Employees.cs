@@ -15,6 +15,7 @@ namespace App_1.Models
 
         public String Phone { get; set; }
         public String City { get; set; }
+        public String Address { get; set; }
 
 
     }
